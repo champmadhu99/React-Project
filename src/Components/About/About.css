@@ -1,0 +1,44 @@
+
+
+
+
+
+.about{
+    margin: 100px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+   
+}
+
+
+.about-left{
+    flex-basis: 40%;
+}
+
+.about-right{
+    flex-basis: 56%;
+    position: relative;
+    bottom:  10px;
+    flex-basis:41% ;
+    
+
+}
+.about-img{
+    width: 90%;
+    border-radius: 10px;
+    height: 100vh;
+   
+   
+}
+ .play-img{
+    width: 90px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    transform: translate(-50%,-50%);
+}
+.text1{
+    color: black;
+}
